@@ -7,7 +7,7 @@
 Summary:       Easily load and save config
 Name:          %{?scl_prefix}nodejs-%{npm_name}
 Version:       1.4.0
-Release:       2%{?dist}
+Release:       2.sc1%{?dist}
 License:       BSD
 URL:           https://github.com/yeoman/configstore
 Source0:       http://registry.npmjs.org/%{npm_name}/-/%{npm_name}-%{version}.tgz
